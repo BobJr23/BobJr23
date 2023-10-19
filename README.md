@@ -3,7 +3,7 @@
 - 👀 I’m interested in
 Python
 - 🌱 I’m currently learning
-Python, AP Physics 😭
+Python, AP CSA, BIO, Calc 😭
 - 💞️ I’m looking to collaborate on 
 Python Projects
 - 📫 How to reach me 
