@@ -7,7 +7,7 @@ Python, AP CSA, BIO, Calc 😭
 - 💞️ I’m looking to collaborate on 
 Python Projects
 - 📫 How to reach me 
-Discord: BobJr#6075
+Discord: bobjr23
 
 ```
 while success == False:
