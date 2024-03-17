@@ -1,4 +1,6 @@
-👋 Hi, I’m Andrew (aka BobJr)
+**👋 Hi, I’m Andrew (aka BobJr)**
+
+I like🧀(Message me for the lore)
 
 **Skills:**
 
