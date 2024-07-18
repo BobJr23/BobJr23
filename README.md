@@ -1,6 +1,7 @@
 **👋 Hi, I’m Andrew (aka BobJr)**
 
 I like🧀(Message me for the lore)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bobjr23&show_icons=true&locale=en&theme=tokyonight" alt="bobjr23" /></p>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
@@ -19,7 +20,6 @@ I like🧀(Message me for the lore)
 ![Static Badge](https://img.shields.io/badge/Discord-bobjr23-blue?logo=discord)
 [![Static Badge](https://img.shields.io/badge/Email_(Click)-maandrew2007%40gmail.com-blue?logo=gmail)](mailto:maandrew2007@gmail.com)
 ![Static Badge](https://img.shields.io/badge/Status-Online-green)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bobjr23&show_icons=true&locale=en&theme=tokyonight" alt="bobjr23" /></p>
 
 
 ```py
