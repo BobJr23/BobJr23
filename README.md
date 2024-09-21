@@ -1,6 +1,5 @@
 **👋 Hi, I’m Andrew (aka BobJr)**
 
-I like🧀(Message me for the lore)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bobjr23&show_icons=true&locale=en&theme=tokyonight" alt="bobjr23" /></p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Python+fanatic;Innovative;WIP)](https://git.io/typing-svg)
