@@ -2,17 +2,13 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bobjr23&show_icons=true&locale=en&theme=tokyonight" alt="bobjr23" /></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Python+fanatic;Innovative;WIP)](https://git.io/typing-svg)
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
 **Skills:**
 
 [![My Skills](https://skillicons.dev/icons?i=py,vscode,discord,selenium,opencv)](https://skillicons.dev)
 
 **Learning:**
 
-[![Learning](https://skillicons.dev/icons?i=java,ai,go,)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=java,go,cpp)](https://skillicons.dev)
 
 ![Static Badge](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?logo=visualstudiocode)
 ![Static Badge](https://img.shields.io/badge/Best_Language-Python-darkgreen?logo=python)
