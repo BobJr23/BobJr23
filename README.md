@@ -4,11 +4,11 @@
 
 **Skills:**
 
-[![My Skills](https://skillicons.dev/icons?i=py,vscode,discord,selenium,opencv)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,kotlin,vscode,discord,selenium,opencv)](https://skillicons.dev)
 
 **Learning:**
 
-[![Learning](https://skillicons.dev/icons?i=java,go,cpp)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=go,cpp)](https://skillicons.dev)
 
 ![Static Badge](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?logo=visualstudiocode)
 ![Static Badge](https://img.shields.io/badge/Best_Language-Python-darkgreen?logo=python)
