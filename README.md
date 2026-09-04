@@ -1,4 +1,4 @@
-**👋 Hi, I’m Andrew (aka BobJr)**
+**👋 Hi, I’m Andrew**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bobjr23&show_icons=true&locale=en&theme=tokyonight" alt="bobjr23" /></p>
 
